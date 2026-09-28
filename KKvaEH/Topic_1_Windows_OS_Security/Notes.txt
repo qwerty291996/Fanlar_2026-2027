@@ -1,0 +1,15 @@
+1. ayrim atamalarni ' bilan ajratib yozma. masalan, PowerShell'ni emas PowerShellni 
+2. o'rtaga 1, 2 ta rasm qo'shganim uchun rasmlar raqamlari o'zgarib ketgan bo'lishi mumkin, shularni ham to'g'rila
+3. gpedit.msc va shu kabi atamalarni Courier New 12 qil. shunda menimcha ajralib ko'rinyapti, yanada shu yozuvlarning rangini, orqa fonini boshqacharoq(chiroyliroq) qilsang yaxshi bo'lardi (Computer Configuration → Windows Settings → Security Settings → Application Control Policies → AppLocker mana shunga o'xshash yozuvlarni nazarda tutyapman). Buyruqlarni ham boshqacha stilda qilgin. asosiy boshqa yozuvlar times new roman 14 da
+4. ko'p mantiqiy xatolar chiqyapti, ularning ko'pini senga tashladim, o'zing to'g'rilab berding, lekin yana shunday xatolar bo'lsa avval aytib, mendan so'rab to'g'rila
+5. rasmlardan tashqari asosiy matnlarni barchasini ctrl+j ga to'g'rila
+6. ayrim rasmlarga nom bermay ketyapman, ularga o'zing nom ber va sen bergan qo'shimcha ma'lumotlarni tartibiga, shriftlariga qaramasdan paste qilib qo'yyapman, ularni o'zing to'g'rilab qo'y
+7. bandlarni raqamlashda wordning raqamlash funksiyasidan foydalanma, faqat o'zing raqam qo'yib chiq (sahifani raqamlashni nazarda tutmayapman)
+8. amaliy mashg'ulotlarda ko'p amallar bajarilyapti, lekin bular nimani anglatishi, nimaga erishilgani, o'zi nima qilingani tushunarsiz bo'lib qolyapti. shuni ma'lum bir amallar bajarilgandan keyin izoh berib ketish kerak
+9. sen yozib bergan matnlarni qayerga to'g'ri kelsa tashlayverdim, o'zing ketma-ketligini to'g'rilab, ma'nosini to'g'rilab joylashtir
+10. amaliyot mashg'ulotlarini ko'proq misollar bilan boyitib, kengaytirib ber, bu amaliyotlar orqali o'rganuvchi shu mavzuni batafsil, ma'nosi bilan o'rgansin. amaliyotda har xil nyuanslar, e'tibor berilishi kerak bo'lgan muhim narsalar bo'lsa ham ta'kidlab ket, xullas o'z biliming bilan ham boyit, lekin men yozganlarimni o'chirma
+11. 3-mashg'ulotdagi oxirgi Smartscreen bo'yicha amaliyot o'xshamadi, shuni yaxshilab o'ylab ko'r va to'g'rila
+
+
+
+hech qayerini o'chirma, qayerinidir o'zgartirmoqchi bo'lsang, agar 100% sen haq bo'lsang so'ramasdan o'zgartiraver, aks holda so'rab mendan ruxsat olib keyin o'zgartir. so'rashga 1 daqiqa vaqting bor, keyin umuman so'rama
